@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "composite": false,
+    "declarationMap": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "incremental": true,
+    "inlineSources": false,
+    "isolatedModules": true,
+    "moduleResolution": "node",
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "preserveWatchOutput": true,
+    "strict": true,
+
+    "allowSyntheticDefaultImports": true,
+    "declaration": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "module": "commonjs",
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "strictBindCallApply": false,
+
+    "outDir": "./dist",
+    "strictPropertyInitialization": false,
+    "target": "ES2017"
+  },
+  "exclude": ["node_modules"]
+}
